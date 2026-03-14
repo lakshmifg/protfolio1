@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lakshmifg/protfolio/static/css/main.bf92931f.css",
+    "main.js": "/lakshmifg/protfolio/static/js/main.59adccf9.js",
+    "static/js/453.5c6ddc6a.chunk.js": "/lakshmifg/protfolio/static/js/453.5c6ddc6a.chunk.js",
+    "index.html": "/lakshmifg/protfolio/index.html",
+    "main.bf92931f.css.map": "/lakshmifg/protfolio/static/css/main.bf92931f.css.map",
+    "main.59adccf9.js.map": "/lakshmifg/protfolio/static/js/main.59adccf9.js.map",
+    "453.5c6ddc6a.chunk.js.map": "/lakshmifg/protfolio/static/js/453.5c6ddc6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf92931f.css",
+    "static/js/main.59adccf9.js"
+  ]
+}
